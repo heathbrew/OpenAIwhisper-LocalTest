@@ -1,0 +1,3 @@
+jupyterlab 
+openai-whisper
+ffmpeg-python

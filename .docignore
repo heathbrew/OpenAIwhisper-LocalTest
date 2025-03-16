@@ -1,0 +1,8 @@
+Docwriter/
+linuxAI/
+linuxvenv/
+__pycache__/
+.git/
+.gitignore
+.docignore
+.ipynb_checkpoints/

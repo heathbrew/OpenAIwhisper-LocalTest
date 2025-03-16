@@ -1,0 +1,7 @@
+python generate_doc.py /path/to/your/folder output.docx
+
+python generate_doc.py /mnt/d/Projects/sales_funnel_app sales_funnel_appV1.docx
+python3 generate_doc.py /mnt/d/Projects/sales_funnel_app/sales_funnel_appV2 sales_funnel_appV2.docx
+python3 generate_doc.py /mnt/d/Desktop/Stuvalley/ResearchStuvalley/Stuvalley-AI-Training/ Writeup.docx
+
+python3 generate_doc.py /mnt/d/Projects/Transcribe/OpenAIwhisper-LocalTest/ Writeup.docx
